@@ -1,0 +1,16 @@
+p{
+    color: blue;  
+    font-size: 20px;
+  }
+.colorRacing{
+    color: rgba(3, 22, 107, 0.856);
+}  
+#segundoParaafo{
+    color:rgb(13, 5, 46)
+}
+body{
+    background-color: rgb(127, 255, 227);
+    background-image: url(../imagenes/FondoRac.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
